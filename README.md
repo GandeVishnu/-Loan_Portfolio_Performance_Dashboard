@@ -35,11 +35,11 @@ This project helps financial institutions and analysts monitor loan health, iden
 
 | Home Page | Portfolio Overview | Borrower Profile |  
 |-----------|--------------------|------------------|  
-| ![Home](./ScreenShots/HomePage.png) | ![Portfolio](./ScreenShots/portfolio.png) | ![Borrower](./ScreenShots/Borrower.png) |  
+| ![Home](./ScreenShots/HomePage.png) | ![Portfolio](./ScreenShots/Portfolio.png) | ![Borrower](./ScreenShots/Borrower.png) |  
 
 | Loan Performance & Risk | Time Trends |  
 |--------------------------|-------------|  
-| ![Performance](./ScreenShots/LoanPerformance.png) | ![Trends](./ScreenShots/TimeTrends.png) |  
+| ![Performance](./ScreenShots/LoanPerformance.png) | ![Trends](./ScreenShots/TimeLine.png) |  
 
 ---
 
