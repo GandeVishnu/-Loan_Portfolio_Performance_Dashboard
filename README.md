@@ -49,7 +49,7 @@ This project helps financial institutions and analysts monitor loan health, iden
 - Debt consolidation loans dominate the portfolio.  
 - Higher defaults are observed in lower-grade loans (E, F, G).  
 - Most borrowers fall into the **50K–100K annual income** range.  
-- Repayment efficiency is strong at **92%+**, but charge-offs highlight risks in certain states.  
+- Repayment efficiency is strong at **92%+**, but charge-offs highlight risks in certain states. 
 - Loan applications show an **upward monthly trend** with seasonal variations.  
 
 ---
@@ -64,7 +64,8 @@ This project helps financial institutions and analysts monitor loan health, iden
 - 🏦 **Repayment Efficiency:** ~92%  
 - ⚠️ **Charged-Off Accounts:** 5.3K (≈13.6% of borrowers)  
 - 🌍 **Highest Charged-Off States:** **CA, FL, NY, TX, NJ**  
-- 🔎 **Borrower Profile:** Most borrowers earn **50K–100K annually**, with debt consolidation being the top loan purpose.  
+- 🔎 **Borrower Profile:** Most borrowers earn **50K–100K annually**, with debt consolidation being the top loan purpose.
+- 📉 **Risk:** Loans graded E, F, and G show the highest default rates, while grades A–C are relatively safer.
 - 📆 **Trend:** Loan applications & amounts show an **upward trajectory** with seasonal spikes.
 
 
