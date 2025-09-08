@@ -54,6 +54,22 @@ This project helps financial institutions and analysts monitor loan health, iden
 
 ---
 
+## 📌 Key Insights  
+
+- 📊 **Total Loan Applications:** 37K+  
+- 💰 **Total Loan Amount Issued:** 419M  
+- 💵 **Total Money Recovered:** 456M  
+- 📉 **Net Charged-Off Loss:** 28M  
+- 📈 **True Profit (Risk-Adjusted):** 9M (**2.06%**)  
+- 🏦 **Repayment Efficiency:** ~92%  
+- ⚠️ **Charged-Off Accounts:** 5.3K (≈13.6% of borrowers)  
+- 🌍 **Highest Charged-Off States:** **CA, FL, NY, TX, NJ**  
+- 🔎 **Borrower Profile:** Most borrowers earn **50K–100K annually**, with debt consolidation being the top loan purpose.  
+- 📆 **Trend:** Loan applications & amounts show an **upward trajectory** with seasonal spikes.
+
+
+---
+
 ## 📬 Contact  
 
 👤 **Gande Vishnu Vardhan**  
