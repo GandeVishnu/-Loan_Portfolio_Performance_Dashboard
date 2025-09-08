@@ -45,7 +45,8 @@ This project helps financial institutions and analysts monitor loan health, iden
 
 ## 🎥 Demo Video  
 
-▶️ [Click here to watch the dashboard demo](./ScreenShots/ScreenRecord.mp4)  
+▶️ [Click here to watch the dashboard demo](https://github.com/GandeVishnu/Loan_Portfolio_Performance_Dashboard/blob/main/ScreenShots/ScreenRecord.mp4
+)  
 
 ---
 
