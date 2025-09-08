@@ -60,7 +60,7 @@ This project helps financial institutions and analysts monitor loan health, iden
 - 💰 **Total Loan Amount Issued:** 419M  
 - 💵 **Total Money Recovered:** 456M  
 - 📉 **Net Charged-Off Loss:** 28M  
-- 📈 **True Profit (Risk-Adjusted):** 9M (**2.06%**)  
+- 📈 **True Profit (Risk-Adjusted):** 10M (**2.4%**)  
 - 🏦 **Repayment Efficiency:** ~92%  
 - ⚠️ **Charged-Off Accounts:** 5.3K (≈13.6% of borrowers)  
 - 🌍 **Highest Charged-Off States:** **CA, FL, NY, TX, NJ**  
