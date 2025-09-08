@@ -44,14 +44,6 @@ This project helps financial institutions and analysts monitor loan health, iden
 ---
 
 
-## 🎥 Demo Video  
-
-[![Watch Demo](./ScreenShots/demo_thumbnail.png)](https://github.com/GandeVishnu/Loan_Portfolio_Performance_Dashboard/blob/main/ScreenShots/ScreenRecord.mp4
-)
-
-
----
-
 ## 📌 Key Insights  
 
 - Debt consolidation loans dominate the portfolio.  
@@ -64,8 +56,8 @@ This project helps financial institutions and analysts monitor loan health, iden
 
 ## 📬 Contact  
 
-👤 **Your Name**  
-📧 [your.email@example.com]  
-🔗 [LinkedIn Profile]  
+👤 **Gande Vishnu Vardhan**  
+📧 [gandevishnu2002@gmail.com]  
+🔗 [https://www.linkedin.com/in/vishnu-vardhan-gande/]  
 
 ---
